@@ -1,10 +1,8 @@
 ---
 title: Privacy Policy
----
-
----
 layout: null
 ---
+
 
 # [Privacy Policy](https://arion-dsh.github.io/lingxing.github.io/privacy)
 
