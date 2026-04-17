@@ -2,6 +2,10 @@
 title: Privacy Policy
 ---
 
+---
+layout: null
+---
+
 # [Privacy Policy](https://yourname.github.io/dash/privacy)
 
 灵行
