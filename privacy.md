@@ -1,4 +1,8 @@
-[Privacy Policy](https://yourname.github.io/dash/privacy.html)
+---
+title: Privacy Policy
+---
+
+# [Privacy Policy](https://yourname.github.io/dash/privacy)
 
 灵行
 
