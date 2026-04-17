@@ -6,7 +6,7 @@ title: Privacy Policy
 layout: null
 ---
 
-# [Privacy Policy](https://yourname.github.io/dash/privacy)
+# [Privacy Policy](https://arion-dsh.github.io/lingxing.github.io/privacy)
 
 灵行
 
