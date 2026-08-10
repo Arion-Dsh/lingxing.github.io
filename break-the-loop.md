@@ -7,7 +7,7 @@ layout: null
 
 Effective date: August 10, 2026
 
-Break the Loop (localized as “缓一刻” in Simplified Chinese) is developed by Arion. This Privacy Policy applies to the iOS and Android versions of the app and explains how information is handled when you use it.
+Break the Loop (localized as “缓一刻” in Simplified Chinese) is a mobile app for iOS and Android. This Privacy Policy explains how information is handled when you use the app. In this policy, “we,” “us,” and “our” refer to the developer of Break the Loop.
 
 Break the Loop is intended for adults. The app is designed to work without an account and to keep your private information on your device.
 
@@ -20,7 +20,7 @@ The app may store information that you choose to enter, including:
 - coping plans that you create; and
 - app preferences, such as onboarding status, privacy-lock settings, and local-reminder settings.
 
-This information may be sensitive. It is stored locally on your device and is not transmitted to Arion or to an Arion-operated server.
+This information may be sensitive. Break the Loop stores it only on your device and does not transmit it to us or to any server operated by us.
 
 The app does not ask for or collect your name, email address, phone number, precise location, contacts, photos, camera or microphone data, advertising identifier, browsing history, or data from other apps.
 
@@ -28,18 +28,18 @@ The app does not ask for or collect your name, email address, phone number, prec
 
 Private records are encrypted on your device using AES-GCM. The encryption key is protected by the iOS Keychain or Android Keystore, depending on your device.
 
-Break the Loop does not provide an account, an Arion-operated cloud backup, or cross-device synchronization. On Android, the app excludes its data from Android cloud backup and device transfer. On iOS, operating-system backups are controlled by Apple and your device settings; the app’s encryption key is marked as device-only and is not designed to migrate to another device.
+Break the Loop does not provide user accounts, cloud storage operated by us, or cross-device synchronization. On Android, the app excludes its data from Android cloud backup and device transfer. On iOS, operating-system backups are controlled by Apple and your device settings; the app’s encryption key is marked as device-only and is not designed to migrate to another device.
 
 ## Subscriptions and Purchases
 
 Optional subscriptions are processed by Apple through the App Store or by Google through Google Play. The app uses the applicable store service to display products and prices, start purchases, restore purchases, and determine whether subscription access is active.
 
-Arion does not receive or store your payment card number, billing address, Apple ID or Google Account password. Apple or Google may process purchase, account, device, and transaction information under their own privacy policies:
+Neither Break the Loop nor its developer receives or stores your payment card number, billing address, Apple ID, or Google Account password. Apple or Google may process purchase, account, device, and transaction information under their own privacy policies:
 
 - [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 - [Google Privacy Policy](https://policies.google.com/privacy)
 
-Break the Loop does not send subscription information to an Arion-operated server.
+Other than communicating with the applicable app store, Break the Loop does not transmit subscription information to us or to any server operated by us.
 
 ## Optional Device Features and Permissions
 
@@ -57,19 +57,19 @@ If you choose to share a suggested everyday message, the app opens the system sh
 
 ## Analytics, Advertising, and Tracking
 
-Break the Loop does not use third-party analytics, advertising SDKs, cross-app tracking, or remote crash-reporting services. Arion does not sell, rent, trade, or share your app records or other personal information.
+Break the Loop does not use third-party analytics, advertising SDKs, cross-app tracking, or remote crash-reporting services. We do not sell, rent, trade, or share your app records or other personal information.
 
 ## Data Retention and Deletion
 
 Your app records remain on your device until you delete them in the app, clear the app’s data where supported by the operating system, or uninstall the app. You can delete individual intervention records, self-reflections, and coping plans from within the app.
 
-Because Arion does not receive or maintain a server-side copy of this information, Arion cannot access, export, or delete the local information on your behalf.
+Break the Loop does not transmit this information to us, and we do not maintain a server-side copy. For that reason, we cannot access, export, or delete the information stored locally on your device on your behalf.
 
 Purchase and subscription records associated with your Apple ID or Google Account are maintained by Apple or Google according to their policies and may remain available for purchase restoration.
 
 ## Children’s Privacy
 
-Break the Loop is intended for users aged 18 and older. Arion does not knowingly collect personal information from children through the app. If you believe a child has provided information directly to Arion, please contact us so that we can take appropriate action.
+Break the Loop is intended for users aged 18 and older. We do not knowingly collect personal information from children through the app. If you believe a child has contacted us and provided personal information, please contact us so that we can take appropriate action.
 
 ## Changes to This Privacy Policy
 
